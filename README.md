@@ -1,0 +1,3 @@
+Identifier les nouveaux mots contenus dans le corpus de *l'Est Républicain*, enregistrés au format XML, et comparer quotidiennement le nombre et la forme des nouveaux mots apparus en fonction de la date.
+Effectuer une analyse typologique en fonction de la longueur des nouveaux mots et de leur capitalisation initiale (s'ils sont des noms propres).
+Visualiser et analyser les données obtenues à l'aide de graphiques.
